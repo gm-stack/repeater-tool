@@ -1,0 +1,2 @@
+CH No,Name,SEL,Frequency,Dup,Offset,Mode,DATA,Filter,TONE,Repeater Tone,TSQL Frequency,DTCS Code,DTCS Polarity,DV SQL,DV CSQL Code,Your Call Sign,RPT1 Call Sign,RPT2 Call Sign,Split
+0,6AP Roleystone,ON,53.800000,DUP-,1.000000,FM,OFF,1,OFF,67.0Hz,67.0Hz,023,BOTH N,OFF,0,,,,OFF

@@ -1,0 +1,2 @@
+CH No,Name,SEL,Frequency,Dup,Offset,Mode,DATA,Filter,TONE,Repeater Tone,TSQL Frequency,DTCS Code,DTCS Polarity,DV SQL,DV CSQL Code,Your Call Sign,RPT1 Call Sign,RPT2 Call Sign,Split
+0,8IT West Gap,ON,438.525000,DUP-,5.000000,FM,OFF,1,TONE,91.5Hz,91.5Hz,023,BOTH N,OFF,0,,,,OFF
